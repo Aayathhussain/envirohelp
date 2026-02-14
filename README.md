@@ -234,3 +234,55 @@ envirohelp/
 │  
 ├── README.md  
 └── .gitignore  
+
+## MoSCoW Prioritization
+
+### Must Have
+
+These features are essential for the system to function.
+
+- User registration and login (JWT-based authentication)
+- Role-based access control (Volunteer, Campaigner)
+- Campaign creation and management
+- Volunteer campaign request submission
+- Accept / Reject request workflow
+- Campaign assignment logic
+- Campaign progress tracking (completion percentage)
+- MongoDB database integration
+- Dockerized backend for local development
+
+
+### Should Have
+
+These features improve usability but are not critical for basic system operation.
+
+- Search campaigns functionality
+- Search volunteers functionality
+- Volunteer profile viewing
+- Campaign editing and deletion
+- Request negotiation updates
+- Display of active vs unassigned campaigns
+- Basic validation for form inputs
+
+
+### Could Have
+
+These features enhance user experience but are optional for the first release.
+
+- Notification system for request updates
+- Email verification during registration
+- Dashboard analytics (campaign statistics)
+- Profile picture uploads
+- Rating or feedback system for volunteers
+
+
+### Won’t Have (For This Version)
+
+These features are intentionally excluded from the current scope.
+
+- Mobile application
+- Payment integration
+- AI-based campaign recommendations
+- Real-time messaging between users
+- Advanced analytics engine
+
