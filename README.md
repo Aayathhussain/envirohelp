@@ -50,7 +50,7 @@ The backend exposes RESTful endpoints protected by middleware. Authentication is
 
 ## Architecture Diagram
 
-![EnviroHelp Architecture]("C:\Users\aayat\envirohelp\docs\architecture-diagram.png")
+![EnviroHelp Architecture](docs\architecture-diagram.png)
 
 ---
 
