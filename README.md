@@ -143,33 +143,6 @@ Virtual relationships are implemented using Mongoose population to simulate rela
 
 ---
 
-## MoSCoW Prioritization
-
-### Must Have
-- User authentication and authorization  
-- Role-based access control  
-- Campaign creation and management  
-- Volunteer request system  
-- Assignment workflow  
-- Campaign progress tracking  
-
-### Should Have
-- Administrative monitoring  
-- Volunteer search and filtering  
-- Campaign filtering  
-
-### Could Have
-- Notification system  
-- Analytical dashboard  
-- Email integration  
-
-### Won’t Have (For Now)
-- Mobile application  
-- AI-based recommendation system  
-- Real-time messaging  
-
----
-
 ## Quick Start – Local Development
 
 ### Prerequisites
@@ -234,6 +207,8 @@ envirohelp/
 │  
 ├── README.md  
 └── .gitignore  
+
+---
 
 ## MoSCoW Prioritization
 
