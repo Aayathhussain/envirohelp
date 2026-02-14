@@ -48,6 +48,10 @@ Deployment Environment (Localhost or Cloud infrastructure)
 
 The backend exposes RESTful endpoints protected by middleware. Authentication is handled using JWT tokens, and authorization is enforced through role-based middleware checks. MongoDB schemas define structured collections for campaigns, users, and requests.
 
+## Architecture Diagram
+
+![EnviroHelp Architecture](docs/envirohelp - architecture diagram.png)
+
 ---
 
 ## Authentication and Security Design
