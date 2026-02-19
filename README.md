@@ -35,6 +35,34 @@ To develop a scalable and secure digital platform that enhances environmental co
 
 ---
 
+Assumptions
+
+Users have access to internet and a modern web browser.
+
+Campaigners provide accurate and truthful campaign information.
+
+Volunteers update campaign progress honestly.
+
+MongoDB database service remains available and reliable.
+
+JWT authentication tokens are securely stored and transmitted.
+
+---
+
+Constraints
+
+Limited development timeline due to academic project scope.
+
+No mobile application support in this version.
+
+No payment or financial transaction integration.
+
+No real-time messaging system between users.
+
+Deployment is limited to local or basic cloud environments.
+
+---
+
 ## System Architecture Overview
 
 The system follows a layered architecture:
