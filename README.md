@@ -35,7 +35,7 @@ To develop a scalable and secure digital platform that enhances environmental co
 
 ---
 
-Assumptions
+## Assumptions
 
 Users have access to internet and a modern web browser.
 
@@ -49,7 +49,7 @@ JWT authentication tokens are securely stored and transmitted.
 
 ---
 
-Constraints
+## Constraints
 
 Limited development timeline due to academic project scope.
 
